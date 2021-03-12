@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e676cc14-11b7-4ca4-8d7b-e614fafa6587" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/js/tag.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/tag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jqvmap/maps/jquery.vmap.croatia.js" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jqvmap/maps/jquery.vmap.croatia.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jsgrid/demos/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jsgrid/demos/basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jsgrid/demos/batch-delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jsgrid/demos/batch-delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jsgrid/demos/custom-grid-field.html" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jsgrid/demos/custom-grid-field.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jsgrid/demos/custom-load-indicator.html" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jsgrid/demos/custom-load-indicator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jsgrid/demos/custom-row-renderer.html" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jsgrid/demos/custom-row-renderer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jsgrid/demos/custom-view.html" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jsgrid/demos/custom-view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jsgrid/demos/data-manipulation.html" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jsgrid/demos/data-manipulation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jsgrid/demos/external-pager.html" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jsgrid/demos/external-pager.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jsgrid/demos/loading-by-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jsgrid/demos/loading-by-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jsgrid/demos/localization.html" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jsgrid/demos/localization.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jsgrid/demos/odata-service.html" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jsgrid/demos/odata-service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jsgrid/demos/sorting.html" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jsgrid/demos/sorting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jsgrid/demos/static-data.html" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jsgrid/demos/static-data.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jsgrid/demos/validation.html" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/jsgrid/demos/validation.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jeBZvOHos1lk8fFVQRzC7uZFDz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e676cc14-11b7-4ca4-8d7b-e614fafa6587" name="Default Changelist" comment="" />
+      <created>1604154741004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604154741004</updated>
+      <workItem from="1604154752536" duration="11000" />
+      <workItem from="1604154810514" duration="219000" />
+    </task>
+    <servers />
+  </component>
+</project>
